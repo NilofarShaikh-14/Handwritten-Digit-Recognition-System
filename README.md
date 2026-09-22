@@ -2,21 +2,6 @@
 
 > End-to-end ML web application that recognises handwritten digits (0–9) using a deep CNN trained on the MNIST dataset — draw on canvas or upload an image and get an instant prediction with confidence scores.
 
----
-
-## 📋 Table of Contents
-
-- [Project Summary](#-project-summary)
-- [Problem Statement](#-problem-statement)
-- [Objectives](#-objectives)
-- [Dataset](#-dataset)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [Model Architecture](#-model-architecture)
-- [Quick Start](#-quick-start)
-- [API Reference](#-api-reference)
-
----
 
 ## 📝 Project Summary
 
